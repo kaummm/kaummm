@@ -1,6 +1,6 @@
 - 👋 Hi, you can call me @Pritam
 - 👀 I’m interested in Impactful Open Sorce Projects
-- 🌱 I’m currently learning Web Development in Node.js
+- 🌱 I’m currently learning iOS Development in Swift
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me - through GitHub
 
